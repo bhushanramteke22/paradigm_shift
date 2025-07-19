@@ -1,7 +1,7 @@
 services:
   img:
     build: .
-    container_name: my-container:v2
+    container_name: my-containerr
   
     ports:
       - 4000:80
